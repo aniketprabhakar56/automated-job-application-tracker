@@ -40,8 +40,8 @@ if (!todayFound) appliedToday = 0;
 
 let remaining = target - appliedToday;
 
-const BOT_TOKEN="8593039530:AAEAlhxVudT4L1_kAAPNBOejsUEN3Wdamhg";
-const CHAT_ID="5814614320";
+const BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN";
+const CHAT_ID = "YOUR_CHAT_ID";
 
 function send(msg){
 
